@@ -1,2 +1,5 @@
-This is my first devops file
-this is the second liine change by me.
+<<<<<<< HEAD
+=======
+This is my first devops file.
+File modifed by git hub user.
+>>>>>>> 85fe8c0331764419e5a108a854ad8e07fbc2f948
